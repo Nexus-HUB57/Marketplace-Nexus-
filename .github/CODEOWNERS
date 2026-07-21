@@ -1,0 +1,18 @@
+# Marketplace Nexus code owners
+
+/backend/migrations/            @Nexus-HUB57/marketplace-backend
+/backend/src/routers/market*    @Nexus-HUB57/marketplace-backend
+/backend/src/routers/academia*  @Nexus-HUB57/marketplace-backend
+/backend/src/services/market*   @Nexus-HUB57/marketplace-backend
+/backend/src/workers/market*    @Nexus-HUB57/marketplace-backend
+/backend/src/domains/market*    @Nexus-HUB57/marketplace-backend
+
+/database/                       @Nexus-HUB57/marketplace-data
+/frontend/src/components/Marketplace/  @Nexus-HUB57/marketplace-frontend
+/frontend/src/pages/Marketplace*.tsx   @Nexus-HUB57/marketplace-frontend
+/frontend/src/pages/Academia*.tsx      @Nexus-HUB57/marketplace-frontend
+
+/scripts/                        @Nexus-HUB57/marketplace-backend
+/academia/                       @Nexus-HUB57/marketplace-content
+/assets/ebooks_pdf/              @Nexus-HUB57/marketplace-content
+/data/                           @Nexus-HUB57/marketplace-content

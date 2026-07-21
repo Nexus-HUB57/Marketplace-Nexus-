@@ -1,0 +1,54 @@
+# ─────────────────────────────────────────────────────────────
+# Marketplace-Nexus — .gitignore
+# ─────────────────────────────────────────────────────────────
+
+# Node / npm
+node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# TypeScript build artifacts
+dist/
+build/
+.tsbuildinfo
+*.tsbuildinfo
+*.js.map
+*.d.ts.map
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+coverage/
+.nyc_output/
+__snapshots__/
+
+# Logs
+logs/
+*.log
+
+# Temporary
+tmp/
+.tmp/
+.cache/
+
+# OS
+*.swp
+*.swo
+*~

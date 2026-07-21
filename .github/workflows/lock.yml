@@ -1,0 +1,18 @@
+name: Lock stale PRs
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  pull-requests: write
+
+jobs:
+  lock:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          days-before-stale: 14
+          days-before-close: 7
+          stale-pr-label: stale
+          exempt-pr-labels: keep-open

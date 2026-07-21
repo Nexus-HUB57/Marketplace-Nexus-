@@ -1,0 +1,29 @@
+{
+  "name": "marketplace-nexus",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketplace Nexus — plataforma de marketplace + academia EAD",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "concurrently -k \"npm:dev:backend\" \"npm:dev:frontend\"",
+    "dev:backend": "npm --workspace backend run dev",
+    "dev:frontend": "npm --workspace frontend run dev",
+    "build": "npm --workspace backend run build && npm --workspace frontend run build",
+    "typecheck": "npm --workspace backend run typecheck && npm --workspace frontend run typecheck",
+    "lint": "npm --workspace backend run lint && npm --workspace frontend run lint",
+    "test": "npm --workspace backend run test",
+    "seed": "cd scripts && python3 seed_marketplace_ebooks.py",
+    "generate-ebooks": "cd scripts && python3 generate_marketplace_ebooks.py"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0",
+    "pnpm": ">=9.0.0"
+  }
+}

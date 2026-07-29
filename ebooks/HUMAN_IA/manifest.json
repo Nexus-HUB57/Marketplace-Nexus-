@@ -1,0 +1,31 @@
+{
+  "collection": {
+    "id": "human-ia",
+    "name": "HUMAN IA",
+    "name_display": "Human IA: A Inteligência Artificial no Dia a Dia",
+    "description": "Coleção acessível de 5 volumes sobre como a IA transforma trabalho, estudos, saúde, criatividade e relacionamentos.",
+    "category": "Tecnologia / Vida Pessoal",
+    "language": "pt-BR",
+    "version": "1.0",
+    "total_volumes": 5,
+    "author": "Nexus Affil'IA'te",
+    "publisher": "Nexus HUB57",
+    "year": 2026,
+    "price_tier": "essencial",
+    "target_audience": [
+      "Profissionais gerais",
+      "Estudantes",
+      "Curiosos em IA"
+    ],
+    "tags": [
+      "IA no dia a dia",
+      "produtividade",
+      "saúde",
+      "criatividade",
+      "relacionamentos"
+    ],
+    "cover_style": "clean-blue",
+    "status": "published"
+  },
+  "volumes": []
+}

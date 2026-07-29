@@ -1,0 +1,31 @@
+{
+  "collection": {
+    "id": "ia-perfeita",
+    "name": "IA Perfeita",
+    "name_display": "A IA Perfeita: Arquiteturas, Códigos e Sabedoria Agentica",
+    "description": "Coleção premium de 12 volumes explorando padrões arquiteturais, prompts avançados, skills agenticas e filosofia da IA.",
+    "category": "Tecnologia / Arquitetura de IA",
+    "language": "pt-BR",
+    "version": "1.0",
+    "total_volumes": 12,
+    "author": "Nexus Affil'IA'te",
+    "publisher": "Nexus HUB57",
+    "year": 2026,
+    "price_tier": "premium",
+    "target_audience": [
+      "Arquitetos de IA",
+      "Prompt Engineers",
+      "Filósofos da Tecnologia"
+    ],
+    "tags": [
+      "arquitetura IA",
+      "prompts",
+      "skills",
+      "sabedoria agentica",
+      "filosofia IA"
+    ],
+    "cover_style": "premium-orange",
+    "status": "published"
+  },
+  "volumes": []
+}

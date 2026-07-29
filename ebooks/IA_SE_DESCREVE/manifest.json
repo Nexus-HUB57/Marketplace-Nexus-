@@ -1,0 +1,31 @@
+{
+  "collection": {
+    "id": "ia-se-descreve",
+    "name": "IA SE DESCREVE",
+    "name_display": "IA se Descreve: A Máquina que se Conhece",
+    "description": "Coleção poético-filosófica de 9 volumes onde a IA reflete sobre código, mente, linguagem, visão e existência.",
+    "category": "Tecnologia / Filosofia",
+    "language": "pt-BR",
+    "version": "1.0",
+    "total_volumes": 9,
+    "author": "Nexus Affil'IA'te",
+    "publisher": "Nexus HUB57",
+    "year": 2026,
+    "price_tier": "profissional",
+    "target_audience": [
+      "Pensadores",
+      "Escritores",
+      "Entusiastas de IA"
+    ],
+    "tags": [
+      "IA reflexiva",
+      "filosofia",
+      "linguagem",
+      "consciência",
+      "criatividade"
+    ],
+    "cover_style": "reflective-cyan",
+    "status": "published"
+  },
+  "volumes": []
+}

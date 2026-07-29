@@ -1,0 +1,31 @@
+{
+  "collection": {
+    "id": "curso-universo-ia",
+    "name": "curso universo ia",
+    "name_display": "Curso: Universo IA — Do Básico ao Avançado",
+    "description": "Coleção educacional de 16 volumes cobrindo agentes, skills, bibliotecas, automação e monetização com IA.",
+    "category": "Educação / IA",
+    "language": "pt-BR",
+    "version": "1.0",
+    "total_volumes": 16,
+    "author": "Nexus Affil'IA'te",
+    "publisher": "Nexus HUB57",
+    "year": 2026,
+    "price_tier": "profissional",
+    "target_audience": [
+      "Iniciantes em IA",
+      "Empreendedores",
+      "Afiliados"
+    ],
+    "tags": [
+      "agentes IA",
+      "skills",
+      "automação",
+      "monetização",
+      "bibliotecas"
+    ],
+    "cover_style": "educational-green",
+    "status": "published"
+  },
+  "volumes": []
+}

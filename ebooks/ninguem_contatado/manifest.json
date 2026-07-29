@@ -1,0 +1,31 @@
+{
+  "collection": {
+    "id": "ninguem-contatado",
+    "name": "ninguem contatado",
+    "name_display": "Ninguém Contatado: Ficção e Realidade na Era da IA",
+    "description": "Coleção literária de 11 volumes misturando ficção científica, crônicas e reflexões sobre a era da inteligência artificial.",
+    "category": "Literatura / Ficção Científica",
+    "language": "pt-BR",
+    "version": "1.0",
+    "total_volumes": 11,
+    "author": "Nexus Affil'IA'te",
+    "publisher": "Nexus HUB57",
+    "year": 2026,
+    "price_tier": "profissional",
+    "target_audience": [
+      "Leitores",
+      "Escritores",
+      "Entusiastas de ficção"
+    ],
+    "tags": [
+      "ficção científica",
+      "crônicas",
+      "literatura",
+      "IA",
+      "futuro"
+    ],
+    "cover_style": "literary-dark",
+    "status": "published"
+  },
+  "volumes": []
+}

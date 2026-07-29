@@ -1,0 +1,31 @@
+{
+  "collection": {
+    "id": "as-novas-profissoes-ia",
+    "name": "as novas profissoes ia",
+    "name_display": "As Novas Profissões IA: Mapa do Futuro do Trabalho",
+    "description": "Coleção de 5 volumes mapeando as novas carreiras emergentes no ecossistema de inteligência artificial.",
+    "category": "Carreira / Futuro do Trabalho",
+    "language": "pt-BR",
+    "version": "1.0",
+    "total_volumes": 5,
+    "author": "Nexus Affil'IA'te",
+    "publisher": "Nexus HUB57",
+    "year": 2026,
+    "price_tier": "essencial",
+    "target_audience": [
+      "Profissionais em transição",
+      "Estudantes",
+      "Recrutadores"
+    ],
+    "tags": [
+      "profissões IA",
+      "carreira",
+      "futuro do trabalho",
+      "designer de prompt",
+      "treinador de agentes"
+    ],
+    "cover_style": "futuristic-lime",
+    "status": "published"
+  },
+  "volumes": []
+}

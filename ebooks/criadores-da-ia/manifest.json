@@ -1,0 +1,31 @@
+{
+  "collection": {
+    "id": "criadores-da-ia",
+    "name": "criadores da ia",
+    "name_display": "Criadores da IA: As Mentes por Trás da Revolução",
+    "description": "Coleção de 8 volumes sobre os pioneiros, visionários e arquitetos que construíram a inteligência artificial.",
+    "category": "Tecnologia / Biografia",
+    "language": "pt-BR",
+    "version": "1.0",
+    "total_volumes": 8,
+    "author": "Nexus Affil'IA'te",
+    "publisher": "Nexus HUB57",
+    "year": 2026,
+    "price_tier": "essencial",
+    "target_audience": [
+      "Históricos de IA",
+      "Estudantes",
+      "Curiosos"
+    ],
+    "tags": [
+      "história IA",
+      "pioneiros",
+      "visionários",
+      "biografia",
+      "revolução"
+    ],
+    "cover_style": "biography-gold",
+    "status": "published"
+  },
+  "volumes": []
+}

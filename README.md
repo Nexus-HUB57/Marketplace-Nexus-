@@ -1,6 +1,6 @@
 # 🛒 Marketplace Nexus
 
-> Plataforma de marketplace digital da **Nexus AI** — gestão unificada de produtos (ebooks, skills, packs), checkout, biblioteca do usuário e integrações com Academia EAD.
+> Plataforma de marketplace digital da **Nexus Affil'IA'te** — gestão unificada de produtos (ebooks, skills, packs), checkout, biblioteca do usuário e integrações com Academia EAD.
 
 [![Status](https://img.shields.io/badge/status-migrated-blue)]()
 [![Repo](https://img.shields.io/badge/source-marketplace--nexus-green)]()

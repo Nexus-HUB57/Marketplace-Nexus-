@@ -1,0 +1,31 @@
+{
+  "collection": {
+    "id": "coletanea-orquestracao-ia",
+    "name": "coletanea orquestracao ia",
+    "name_display": "Coletânea: Orquestração de IA",
+    "description": "Coleção técnica de 6 volumes sobre orquestração de sistemas de inteligência artificial.",
+    "category": "Tecnologia / Orquestração",
+    "language": "pt-BR",
+    "version": "1.0",
+    "total_volumes": 6,
+    "author": "Nexus Affil'IA'te",
+    "publisher": "Nexus HUB57",
+    "year": 2026,
+    "price_tier": "profissional",
+    "target_audience": [
+      "Engenheiros de IA",
+      "Arquitetos de Software",
+      "DevOps"
+    ],
+    "tags": [
+      "orquestração",
+      "MCP",
+      "A2A",
+      "multiagente",
+      "protocolos"
+    ],
+    "cover_style": "orchestration-purple",
+    "status": "published"
+  },
+  "volumes": []
+}
